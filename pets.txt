@@ -1,0 +1,10 @@
+dog
+cat
+gecko
+parrot
+hamster
+ferret
+fish
+rabbit
+pig
+horse
